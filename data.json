@@ -1,0 +1,267 @@
+{
+  "main-cars": [
+    {
+      "id": "101",
+      "title": "Jazz",
+      "img": "https://www.honda.co.uk/content/dam/central/cars/jazz-hybrid/mmc-24ym/Honda-jazz-hybrid-popular-01-1024x576.png/_jcr_content/renditions/c3.png",
+      "price": "60",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "102",
+      "title": "Civic",
+      "img": "https://www.honda.co.uk/content/dam/local/uk/cars/civic-mmc-2026-offer-images/Civic-MMC-YM26-Elegance-UK_f34.png/jcr:content/renditions/m_r_w.webp",
+      "price": "55",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "103",
+      "title": "HR-V",
+      "img": "https://www.honda.co.uk/content/dam/local/uk/cars/homepage/HRV_MMC_f34_RT.png/jcr:content/renditions/m_r_w.webp",
+      "price": "48",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "104",
+      "title": "ZR-V",
+      "img": "https://www.honda.co.uk/content/dam/local/uk/cars/homepage/ZRV_eHEV_f34_RT.png/jcr:content/renditions/m_r_w.webp",
+      "price": "35",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "105",
+      "title": "CR-V",
+      "img": "https://www.honda.co.uk/content/dam/local/uk/cars/homepage/CRV_eHEV_RT.png/jcr:content/renditions/m_r_w.webp",
+      "price": "65",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "106",
+      "title": "Civic-R",
+      "img": "https://www.honda.co.uk/content/dam/local/uk/cars/homepage/TypeR_f34_f34_RT.png/jcr:content/renditions/m_r_w.webp",
+      "price": "40",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    }
+  ],
+  "seller": [
+    {
+      "id": "201",
+      "name": "alex adams",
+      "img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "CEO"
+    },
+    {
+      "id": "202",
+      "name": "yushi yamoto",
+      "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Seller"
+    },
+    {
+      "id": "203",
+      "name": "jessica smith",
+      "img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "Seller"
+    }
+  ],
+  "know": [
+    {
+      "id": "1",
+      "title": "Famously Honda was founded by and named after a Japanese engineer back in 1946 named Soichiro Honda, which he called the Honda technical Research Institute back then.However, it is less well known that before he founded Honda, he had another company that produced car parts such as piston rings.This company, named Tökai Seiki, produced its parts and sold them to another now well known Japanese manufacturer Toyota."
+    },
+    {
+      "id": "2",
+      "title": "Honda has always been known for their forward-thinking, innovative approach to the motor industry.This was no more apparent than between 1997-99 when they produced just 340 of the manufacturers first ever battery electric powered vehicle, the EV Plus.While this car itself didnt achieve much, its basis was interestingly recycled as a development chassis for what would later become the Honda FCX, Hondas first zero emissions vehicle."
+    },
+    {
+      "id": "3",
+      "title": "Such was the popularity of Honda motorbikes in California in the early 1960s that a band was created in their name.The Hondells were an American surf rock band manufactured by the legendary songwriter and producers Brian Wilson and Mike Love of the Beach Boys.Their biggest hit, fantastically named Little Honda reached no.9 in the US charts in 1964, and you can hear it by following this link."
+    },
+    {
+      "id": "4",
+      "title": "Simply because of the men engineering genius, this is the second brilliant fact about Soichiro Honda.Back in 1928, way before he developed Honda, he actually helped develop a Ford, essentially making the first Honda a Ford!Honda fitted a Curtiss-Wright V-8 aircraft engine into a Ford chassis, the vehicle went on to set the Japanese speed record of the da, reaching 75mph."
+    },
+    {
+      "id": "5",
+      "title": "Back in 2006, Honda became the sole supplier of engines in the IndyCar series for the first time.While this is fairly interesting in itself, it isnt the best bit. As a testament to the quality and lasting nature of their engines, that years Indianapolis 500 was the first in recorded history to not feature a single engine problem."
+    },
+    {
+      "id": "6",
+      "title": "Honda is, of course, one of the leading manufacturers in terms of advancing technology, and its development of 4-wheel steering was no exception.The third generation Honda Prelude, released first in 1987 was the first car to feature the steering option in mass production. In the year of its release, it beat every other new car in the slalom test, even the likes of Porsche and Ferrari."
+    },
+    {
+      "id": "7",
+      "title": "In 1999 Honda released a special edition of their NSX model, named after the famous Italian CART driver Alex Zanardi.The car, which was released to commemorate his two back-to-back championship wins in 97 and 98, however only a tiny number of the NSX special edition were ever made.In fact, including the initial press car and the model gifted to Zanardi from Honda, there were only 51 models ever made, all painted in New Formula Red, the colour of his championship winning car.Honda is one of the most creative and exciting vehicle manufacturers ever to grace our roads, and as such has bucket loads of interesting facts to go around."
+    }
+  ],
+  "products": [
+    {
+      "id": "301",
+      "title": "HR-V",
+      "img": "https://hondanews.eu/image/cars/thumb/364072/1_20/5?v=2",
+      "price": "60",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "302",
+      "title": "Civic",
+      "img": "https://hondanews.eu/image/cars/thumb/153134/20_20/13?v=2",
+      "price": "70",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "303",
+      "title": "CR-V",
+      "img": "https://hondanews.eu/image/cars/thumb/492918/20_20/13?v=2",
+      "price": "81",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "304",
+      "title": "FR-V",
+      "img": "https://hondanews.eu/image/cars/thumb/139713/1_20/5?v=2",
+      "price": "38",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "305",
+      "title": "Civic-R",
+      "img": "https://hondanews.eu/image/cars/thumb/410545/1_20/5?v=2",
+      "price": "65",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "306",
+      "title": "CR-Z",
+      "img": "https://hondanews.eu/image/cars/thumb/139716/1_20/5?v=2",
+      "price": "47",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "307",
+      "title": "Civic-2011",
+      "img": "https://hondanews.eu/image/cars/thumb/100278/20_20/13?v=2",
+      "price": "61",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "308",
+      "title": "Civic-Tourer",
+      "img": "https://hondanews.eu/image/cars/thumb/57534/20_20/13?v=2",
+      "price": "53",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "309",
+      "title": "Claritty",
+      "img": "https://hondanews.eu/image/cars/thumb/107008/1_20/5?v=2",
+      "price": "49",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "310",
+      "title": "Jazz",
+      "img": "https://hondanews.eu/image/cars/thumb/139698/1_20/5?v=2",
+      "price": "75",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    },
+    {
+      "id": "311",
+      "title": "Accord",
+      "img": "https://hondanews.eu/image/cars/thumb/139698/1_20/5?v=2",
+      "price": "56",
+      "count": 1,
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident id quos possimus adipisci, alias sed accusantium? Voluptatem deserunt aspernatur assumenda ad rerum sequi harum, officiis voluptatum. Neque repellat veritatis explicabo!"
+    }
+  ],
+  "comments": [],
+  "users": [
+    {
+      "id": "1025",
+      "name": "eeeeeeeeeeee",
+      "email": "kuroshmotie@gmail.com",
+      "password": "852147",
+      "confirmPass": "852147",
+      "order": [],
+      "address": ""
+    },
+    {
+      "id": "7170",
+      "name": "qwert",
+      "email": "kuroshmotie@gmail.com",
+      "password": "12345",
+      "confirmPass": "12345",
+      "order": [],
+      "address": ""
+    },
+    {
+      "id": "5201",
+      "name": "qwer",
+      "email": "kuroshmotie@gmail.com",
+      "password": "09876",
+      "confirmPass": "09876",
+      "order": [],
+      "address": ""
+    },
+    {
+      "id": "c15e",
+      "name": "leonardo",
+      "email": "kuroshmotie@gmail.com",
+      "password": "147852",
+      "confirmPass": "147852",
+      "order": [],
+      "address": ""
+    },
+    {
+      "id": "247f",
+      "name": "jesus",
+      "email": "kuroshmotie@gmail.com",
+      "password": "123456789",
+      "confirmPass": "123456789",
+      "order": [],
+      "address": ""
+    },
+    {
+      "id": "03c7",
+      "name": "christ",
+      "email": "kuroshmotie@gmail.com",
+      "password": "987654321",
+      "confirmPass": "987654321",
+      "order": [],
+      "address": ""
+    },
+    {
+      "id": "99b2",
+      "name": "poiuytrewq",
+      "email": "kuroshmotie@gmail.com",
+      "password": "01234",
+      "confirmPass": "01234",
+      "order": [],
+      "address": ""
+    },
+    {
+      "id": "4a02",
+      "name": "jesus christ",
+      "email": "kuroshmotie@gmail.com",
+      "password": "137946852",
+      "confirmPass": "137946852",
+      "order": [],
+      "address": ""
+    }
+  ]
+}
